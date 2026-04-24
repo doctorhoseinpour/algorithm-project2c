@@ -1,0 +1,105 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="69" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="blas" />
+          <option value="bottleneck" />
+          <option value="libcxx" />
+          <option value="libgfortran5" />
+          <option value="libopenblas" />
+          <option value="llvm-openmp" />
+          <option value="numexpr" />
+          <option value="numpy" />
+          <option value="numpy-base" />
+          <option value="pandas" />
+          <option value="python-dateutil" />
+          <option value="python-tzdata" />
+          <option value="pytz" />
+          <option value="six" />
+          <option value="aiohappyeyeballs" />
+          <option value="aiohttp" />
+          <option value="aiosignal" />
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="async-timeout" />
+          <option value="attrs" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="dataclasses-json" />
+          <option value="distro" />
+          <option value="exceptiongroup" />
+          <option value="faiss-cpu" />
+          <option value="filelock" />
+          <option value="frozenlist" />
+          <option value="fsspec" />
+          <option value="h11" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="httpx-sse" />
+          <option value="huggingface-hub" />
+          <option value="idna" />
+          <option value="jinja2" />
+          <option value="jiter" />
+          <option value="joblib" />
+          <option value="jsonpatch" />
+          <option value="jsonpointer" />
+          <option value="langchain" />
+          <option value="langchain-community" />
+          <option value="langchain-core" />
+          <option value="langchain-huggingface" />
+          <option value="langchain-openai" />
+          <option value="langchain-text-splitters" />
+          <option value="langsmith" />
+          <option value="markupsafe" />
+          <option value="marshmallow" />
+          <option value="mpmath" />
+          <option value="multidict" />
+          <option value="mypy-extensions" />
+          <option value="networkx" />
+          <option value="openai" />
+          <option value="orjson" />
+          <option value="packaging" />
+          <option value="pillow" />
+          <option value="propcache" />
+          <option value="pydantic" />
+          <option value="pydantic-core" />
+          <option value="pydantic-settings" />
+          <option value="python-dotenv" />
+          <option value="pyyaml" />
+          <option value="regex" />
+          <option value="requests" />
+          <option value="requests-toolbelt" />
+          <option value="safetensors" />
+          <option value="scikit-learn" />
+          <option value="scipy" />
+          <option value="sentence-transformers" />
+          <option value="sniffio" />
+          <option value="sqlalchemy" />
+          <option value="sympy" />
+          <option value="tenacity" />
+          <option value="threadpoolctl" />
+          <option value="tiktoken" />
+          <option value="tokenizers" />
+          <option value="torch" />
+          <option value="tqdm" />
+          <option value="transformers" />
+          <option value="typing-extensions" />
+          <option value="typing-inspect" />
+          <option value="urllib3" />
+          <option value="yarl" />
+          <option value="zstandard" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
